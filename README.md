@@ -102,6 +102,12 @@ Aspiring Data Analyst | Excel Analytics | Data Visualisation
 This is a learning portfolio project using Adidas US sales data. The findings and recommendations are based on the dataset analysed and should not be interpreted as official Adidas business guidance.
 ## Dashboard Preview
 
-![Adidas Sales Dashboard](adidas-sales-dashboard 1.jpg)
-![Adidas Sales Dashboard](adidas-sales-dashboard 2.jpg)
-![Adidas Sales Dashboard](adidas-sales-dashboard 3.jpg)
+## Dashboard Preview
+
+![Adidas Sales Dashboard](adidas-sales-dashboard%201.jpg)
+## Dashboard Preview
+
+![Adidas Sales Dashboard](adidas-sales-dashboard%202.jpg)
+## Dashboard Preview
+
+![Adidas Sales Dashboard](adidas-sales-dashboard%203.jpg)
