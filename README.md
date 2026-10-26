@@ -100,14 +100,12 @@ This project provided practical experience in turning a sales dataset into struc
 Aspiring Data Analyst | Excel Analytics | Data Visualisation
 
 This is a learning portfolio project using Adidas US sales data. The findings and recommendations are based on the dataset analysed and should not be interpreted as official Adidas business guidance.
-## Dashboard Preview
 
 ## Dashboard Preview
 
-![Adidas Sales Dashboard](adidas-sales-dashboard%201.jpg)
-## Dashboard Preview
+![Adidas Sales Dashboard 1](adidas-sales-dashboard%201.jpg)
 
-![Adidas Sales Dashboard](adidas-sales-dashboard%202.jpg)
-## Dashboard Preview
+![Adidas Sales Dashboard 2](adidas-sales-dashboard%202.JPG)
 
-![Adidas Sales Dashboard](adidas-sales-dashboard%203.jpg)
+![Adidas Sales Dashboard 3](adidas-sales-dashboard%203.JPG)
+
